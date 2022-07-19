@@ -1,0 +1,157 @@
+
+
+
+.btn{
+    padding: 10px 50px;
+    outline: none;
+    border: none;
+    background-color: #E02C6D;
+    color: white;
+    font-size: 19px;
+    border-radius: 30px;
+}
+
+hr{
+    border: 1px solid #DAE1E9;
+    margin-top: 30px;
+}
+
+.header,  main{
+    padding: 3% 8%;
+}
+
+.influencer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.star-your-jouney{
+    padding: 40px 10px;
+    width: 600px;
+}
+
+.header-title{
+    font-size: 4rem;
+}
+
+.header-des{
+    font-size: 22px;
+}
+
+.companys{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:30px; 
+}
+
+.single-company{
+    margin-left:50px ;
+}
+
+
+
+
+
+
+
+.section-title{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    font-size: 2rem;
+}
+
+.popular-collention{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    row-gap: 40px;
+}
+
+.single-collention{
+    width: 329px;
+    height: 476px;
+    box-shadow: 5px 5px 50px rgb(214, 214, 214);
+    padding-left: 15px;
+    padding-top: 15px;
+    border-radius: 10px;
+}
+
+.collention-banner img{
+    width: 300px;
+    height: 256px;
+}
+
+.collention-title h2{
+    font-size: 28px;
+    margin-bottom: 0px;
+}
+
+.collention-price h3{
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+
+.collention-ratting{
+    display: flex;
+    gap: 5px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.collention-ratting i{
+    font-size: 12px;
+    color: tomato;
+}
+
+.collention-des{
+    font-size: 18px;
+    color: #888;
+}
+
+.see-more{
+    font-size: 22px;
+    color: red;
+    text-align: end;
+    margin-right: 40px;
+}
+
+
+.featured{
+    display: flex;
+    gap: 50px;
+    margin-top: 100px;
+}
+
+.featured-title{
+    font-size: 3rem;
+}
+
+.featured-des{
+    font-size: 19px;
+}
+
+
+
+footer{
+    background-color: #0A0826;
+    color: white;
+    padding: 50px 0px;
+    margin-top: 100px;
+}
+
+.footer{
+    text-align: center;
+}
+
+.footer h2{
+    margin-bottom: 0;
+    font-size: 29px;
+    
+}
+
+.footer p{
+    margin-bottom: 10px;
+    font-size: 18px;
+    margin-top: 10px;
+}
